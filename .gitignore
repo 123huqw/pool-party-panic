@@ -1,0 +1,51 @@
+# ────────────────────────────────────────────────
+# Unity 生成物（绝不要提交）
+# ────────────────────────────────────────────────
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# 自动生成的解决方案 / IDE 工程文件
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# 构建产物
+*.apk
+*.aab
+*.unitypackage
+*.app
+ExportedObj/
+crashlytics-build.properties
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时备份（我自己调试时留的）
+*.bak
+*.bak-dsh
+*~
+
+# 暂时搁置、不打算公开的旧内容
+_Shelved/
